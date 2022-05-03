@@ -23,3 +23,4 @@ MicrosoftGitHubScanner.exe /user:thalpius /repo:Microsoft-ADFS-Info /branch:mast
 
 # Screenshot
 
+Coming soon
