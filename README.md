@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> "This repo is now in 'Blue Screen' mode—archived and frozen in time!"
+
 # Microsoft GitHub Scanner
 
 I created a small application to scan a GitHub repository for a keyword. During a Microsoft webinar where I demonstrated a new feature within Microsoft Azure Identity Protection, multiple people requested the tool, so I decided to release it.
